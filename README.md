@@ -10,11 +10,7 @@ Dynamic panel analysis of inequality across OECD members. Implements panel unit 
 ### Structure
 TSM/
 ├── tsm_run.R
-├── oecd_inequality_2002_2021.csv
-├── out/
-│ └── tsm_oecd_models.rds
-└── figs/
-└── irf_gini_grid.png
+
 
 ### Methods
 - Panel unit root tests Levin Lin Chu and IPS  
